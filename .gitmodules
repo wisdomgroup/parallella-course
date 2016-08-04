@@ -1,0 +1,3 @@
+[submodule "ebsp-message-example"]
+	path = ebsp-message-example
+	url = https://github.com/tmalthouse/ebsp-message-example.git
